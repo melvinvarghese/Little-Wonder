@@ -41,3 +41,7 @@ All listed pages were searched for and then fetched in full (or fetched for the 
 10. **Friendship paradox — Yale School of Management, Yale Insights, “Your Friends Have More Friends Than You—and That’s a Good Thing for Marketers and Public Health Officials”**  
     URL: https://insights.som.yale.edu/insights/your-friends-have-more-friends-than-you-and-thats-good-thing-for-marketers-and-public  
     Describes the network result that friends have more friends on average and gives the sampling intuition behind identifying highly connected nodes through a random person’s friends. The article’s statement is explicitly about averages, not a rule for every individual.
+
+## Editorial review
+
+The Simpson’s-paradox opening was clarified to refer to one treatment being better within every subgroup but worse in the pooled comparison. The Benford explanation explicitly uses steady **percentage** growth: without that condition, the linear intervals 100–200 and 900–1,000 are equal in length and would not explain the logarithmic pattern. These clarifications narrow the prose to the reasoning supported by the cited sources.

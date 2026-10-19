@@ -1,0 +1,14 @@
+import {chromium} from 'playwright';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+const base=process.env.TEST_URL||'http://localhost:8011/Little-Wonder/';
+const articles=JSON.parse(fs.readFileSync(new URL('../assets/articles.json',import.meta.url)));
+const browser=await chromium.launch();const context=await browser.newContext();
+const a=await context.newPage(),b=await context.newPage();
+await a.goto(new URL(`wonders/${articles[0].id}/`,base).href);await b.goto(new URL(`wonders/${articles[1].id}/`,base).href);
+assert.equal(await a.evaluate(()=>typeof navigator.locks?.request),'function');
+await Promise.all([a.locator('[data-save]').click(),b.locator('[data-save]').click()]);
+await a.waitForFunction(()=>JSON.parse(localStorage.getItem('little-wonder-collection-v1')).favourites.length===2);
+assert.deepEqual((await a.evaluate(()=>JSON.parse(localStorage.getItem('little-wonder-collection-v1')).favourites)).sort(),[articles[0].id,articles[1].id].sort());
+console.log('PASS simultaneous two-tab saves retain both favourites');
+await browser.close();

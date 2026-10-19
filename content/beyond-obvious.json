@@ -10,8 +10,18 @@
     ],
     "reflection": "The trick is not the door; it is the host’s information. Ask what a reveal was allowed to show before treating it as random.",
     "readingTime": "1 min",
-    "keywords": ["probability", "Monty Hall", "conditional probability", "decision-making"],
-    "sources": [{"title": "The Monty Hall Problem — University of Illinois Data Science Discovery", "url": "https://discovery.cs.illinois.edu/learn/Prediction-and-Probability/The-Monty-Hall-Problem/"}],
+    "keywords": [
+      "probability",
+      "Monty Hall",
+      "conditional probability",
+      "decision-making"
+    ],
+    "sources": [
+      {
+        "title": "The Monty Hall Problem — University of Illinois Data Science Discovery",
+        "url": "https://discovery.cs.illinois.edu/learn/Prediction-and-Probability/The-Monty-Hall-Problem/"
+      }
+    ],
     "visual": "beyond-obvious"
   },
   {
@@ -25,23 +35,43 @@
     ],
     "reflection": "This is a group-match question, not a question about someone matching you. Changing the comparison changes the answer.",
     "readingTime": "1 min",
-    "keywords": ["birthday paradox", "probability", "combinations", "coincidence"],
-    "sources": [{"title": "Birthday Problem — Harvey Mudd College Math Fun Facts", "url": "https://math.hmc.edu/funfacts/birthday-problem/"}],
+    "keywords": [
+      "birthday paradox",
+      "probability",
+      "combinations",
+      "coincidence"
+    ],
+    "sources": [
+      {
+        "title": "Birthday Problem — Harvey Mudd College Math Fun Facts",
+        "url": "https://math.hmc.edu/funfacts/birthday-problem/"
+      }
+    ],
     "visual": "beyond-obvious"
   },
   {
     "id": "when-the-average-reverses-the-story",
     "title": "When the Average Reverses the Story",
     "category": "beyond-obvious",
-    "opening": "Two treatments can each look better in every subgroup—and still look worse when all patients are pooled.",
+    "opening": "A treatment can look better in every subgroup—and still look worse when all patients are pooled.",
     "paragraphs": [
       "This is Simpson’s paradox. Imagine one hospital treats many straightforward cases and another receives mostly severe ones. A treatment can have a higher success rate within both severity groups, yet a lower overall rate if it was used disproportionately on the hardest cases.",
       "The arithmetic has not broken. The groups contribute different numbers of people, so their averages carry different weights. Pooling can conceal that mix and even reverse the comparison. Which number matters depends on the question and on what variables shape who received each treatment; subgroup rates alone do not automatically establish cause."
     ],
     "reflection": "Whenever a headline compares totals, look for the hidden categories—and ask whether the groups were assembled in comparable ways.",
     "readingTime": "1 min",
-    "keywords": ["Simpson's paradox", "statistics", "aggregation", "confounding"],
-    "sources": [{"title": "Questionable Methods | Simpson’s Paradox — Stanford Best Practices in Science", "url": "https://bps.stanford.edu/home/statistical-forensics/statistical-forensics-questionable-methods/questionable-methods-simpsons"}],
+    "keywords": [
+      "Simpson's paradox",
+      "statistics",
+      "aggregation",
+      "confounding"
+    ],
+    "sources": [
+      {
+        "title": "Questionable Methods | Simpson’s Paradox — Stanford Best Practices in Science",
+        "url": "https://bps.stanford.edu/home/statistical-forensics/statistical-forensics-questionable-methods/questionable-methods-simpsons"
+      }
+    ],
     "visual": "beyond-obvious"
   },
   {
@@ -51,12 +81,22 @@
     "opening": "In many datasets, numbers begin with 1 more often than 9. It sounds like nature has a favorite digit, but scale is doing the work.",
     "paragraphs": [
       "Benford’s law predicts that a leading digit d appears with probability log₁₀(1 + 1/d). That gives a first digit of 1 about 30% of the time, while 9 appears about 4.6%. The pattern can arise when data span several orders of magnitude and are reasonably smooth on a logarithmic scale.",
-      "Think of a quantity growing from 100 to 200: it spends a longer stretch beginning with 1 than it does going from 900 to 1,000. Across many scales, this uneven digit time accumulates. But the rule is not universal: assigned ID numbers, tightly bounded measurements, and prices designed to end in .99 need not follow it."
+      "Imagine a quantity growing at a steady percentage rate: doubling from 100 to 200 takes longer than growing from 900 to 1,000. It therefore spends more time beginning with 1. Across many scales, this uneven digit time accumulates. But the rule is not universal: assigned ID numbers and tightly bounded measurements need not follow it."
     ],
     "reflection": "A digit pattern can be a useful clue, never a verdict by itself. First check whether the data are the kind that could produce it.",
     "readingTime": "1 min",
-    "keywords": ["Benford's law", "first digits", "logarithms", "data"],
-    "sources": [{"title": "A Simple Explanation of Benford’s Law — R. M. Fewster, hosted by Williams College Mathematics", "url": "https://web.williams.edu/Mathematics/sjmiller/public_html/ntprob19/handouts/benford/Fewster_SimpleExplanationBenfordLaw.pdf"}],
+    "keywords": [
+      "Benford's law",
+      "first digits",
+      "logarithms",
+      "data"
+    ],
+    "sources": [
+      {
+        "title": "A Simple Explanation of Benford’s Law — R. M. Fewster, hosted by Williams College Mathematics",
+        "url": "https://web.williams.edu/Mathematics/sjmiller/public_html/ntprob19/handouts/benford/Fewster_SimpleExplanationBenfordLaw.pdf"
+      }
+    ],
     "visual": "beyond-obvious"
   },
   {
@@ -70,8 +110,18 @@
     ],
     "reflection": "When a change follows an outlier, ask what would have happened over the same time without the intervention.",
     "readingTime": "1 min",
-    "keywords": ["regression to the mean", "statistics", "measurement", "experiments"],
-    "sources": [{"title": "Regression to the Mean and Change Score Analysis — University of Virginia Library StatLab", "url": "https://library.virginia.edu/data/articles/regression-mean-and-change-score-analysis"}],
+    "keywords": [
+      "regression to the mean",
+      "statistics",
+      "measurement",
+      "experiments"
+    ],
+    "sources": [
+      {
+        "title": "Regression to the Mean and Change Score Analysis — University of Virginia Library StatLab",
+        "url": "https://library.virginia.edu/data/articles/regression-mean-and-change-score-analysis"
+      }
+    ],
     "visual": "beyond-obvious"
   },
   {
@@ -85,8 +135,18 @@
     ],
     "reflection": "When you hear “the test is 95% accurate,” ask: accurate for whom, and how common is the thing being tested for?",
     "readingTime": "1 min",
-    "keywords": ["base rates", "false positives", "Bayes", "medical testing"],
-    "sources": [{"title": "Mitigating the Base-Rate Neglect Cognitive Bias in Data Science Education — Communications of the ACM", "url": "https://cacm.acm.org/blogcacm/mitigating-the-base-rate-neglect-cognitive-bias-in-data-science-education/"}],
+    "keywords": [
+      "base rates",
+      "false positives",
+      "Bayes",
+      "medical testing"
+    ],
+    "sources": [
+      {
+        "title": "Mitigating the Base-Rate Neglect Cognitive Bias in Data Science Education — Communications of the ACM",
+        "url": "https://cacm.acm.org/blogcacm/mitigating-the-base-rate-neglect-cognitive-bias-in-data-science-education/"
+      }
+    ],
     "visual": "beyond-obvious"
   },
   {
@@ -100,8 +160,18 @@
     ],
     "reflection": "Before expecting a random streak to end, check whether the process truly resets or whether past outcomes change what can happen next.",
     "readingTime": "1 min",
-    "keywords": ["gambler's fallacy", "independence", "coin toss", "randomness"],
-    "sources": [{"title": "Independent Events and the Gambler’s Fallacy — LabXchange, Harvard University", "url": "https://www.labxchange.org/library/items/lb:LabXchange:d3429cd1:html:1"}],
+    "keywords": [
+      "gambler's fallacy",
+      "independence",
+      "coin toss",
+      "randomness"
+    ],
+    "sources": [
+      {
+        "title": "Independent Events and the Gambler’s Fallacy — LabXchange, Harvard University",
+        "url": "https://www.labxchange.org/library/items/lb:LabXchange:d3429cd1:html:1"
+      }
+    ],
     "visual": "beyond-obvious"
   },
   {
@@ -115,8 +185,18 @@
     ],
     "reflection": "Our senses combine evidence rather than report measurements like instruments. A label can correct a belief without instantly changing a feeling.",
     "readingTime": "1 min",
-    "keywords": ["size-weight illusion", "perception", "touch", "density"],
-    "sources": [{"title": "The Size-Weight Illusion and Beyond: A New Model of Perceived Weight — PLOS Computational Biology", "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013496"}],
+    "keywords": [
+      "size-weight illusion",
+      "perception",
+      "touch",
+      "density"
+    ],
+    "sources": [
+      {
+        "title": "The Size-Weight Illusion and Beyond: A New Model of Perceived Weight — PLOS Computational Biology",
+        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013496"
+      }
+    ],
     "visual": "beyond-obvious"
   },
   {
@@ -130,8 +210,18 @@
     ],
     "reflection": "Seeing color is partly an inference about the world, not simply a readout of wavelengths. The room around an object helps shape what color you experience.",
     "readingTime": "1 min",
-    "keywords": ["color constancy", "vision", "illumination", "perception"],
-    "sources": [{"title": "Color Constancy in Real-World Settings — Journal of Vision", "url": "https://jov.arvojournals.org/article.aspx?articleid=2793408"}],
+    "keywords": [
+      "color constancy",
+      "vision",
+      "illumination",
+      "perception"
+    ],
+    "sources": [
+      {
+        "title": "Color Constancy in Real-World Settings — Journal of Vision",
+        "url": "https://jov.arvojournals.org/article.aspx?articleid=2793408"
+      }
+    ],
     "visual": "beyond-obvious"
   },
   {
@@ -145,8 +235,18 @@
     ],
     "reflection": "A sample gathered through relationships can overrepresent the well-connected. The people you encounter are not always a neutral sample of everyone.",
     "readingTime": "1 min",
-    "keywords": ["friendship paradox", "networks", "sampling bias", "social science"],
-    "sources": [{"title": "Your Friends Have More Friends Than You—and That’s a Good Thing for Marketers and Public Health Officials — Yale Insights", "url": "https://insights.som.yale.edu/insights/your-friends-have-more-friends-than-you-and-thats-good-thing-for-marketers-and-public"}],
+    "keywords": [
+      "friendship paradox",
+      "networks",
+      "sampling bias",
+      "social science"
+    ],
+    "sources": [
+      {
+        "title": "Your Friends Have More Friends Than You—and That’s a Good Thing for Marketers and Public Health Officials — Yale Insights",
+        "url": "https://insights.som.yale.edu/insights/your-friends-have-more-friends-than-you-and-thats-good-thing-for-marketers-and-public"
+      }
+    ],
     "visual": "beyond-obvious"
   }
 ]
