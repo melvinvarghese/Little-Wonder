@@ -1,0 +1,8 @@
+[
+  {"id":"thinking-room","title":"The Thinking Room","description":"A quiet place for the questions that change how we see ourselves.","symbol":"◎","accent":"#34534d","motif":"A ship and its changing pieces"},
+  {"id":"between-the-lines","title":"Between the Lines","description":"Books, their makers, and the stories hiding in the margins.","symbol":"❧","accent":"#735447","motif":"An open book and a growing branch"},
+  {"id":"curious-past","title":"The Curious Past","description":"Small windows into the extraordinary lives of other times.","symbol":"⌛","accent":"#776036","motif":"An hourglass holding a little history"},
+  {"id":"natures-secrets","title":"Nature’s Secrets","description":"The intricate, improbable wonders of our living world.","symbol":"✳","accent":"#3e6144","motif":"A fern unfurling toward the light"},
+  {"id":"beyond-obvious","title":"Beyond the Obvious","description":"Follow an ordinary idea until it becomes extraordinary.","symbol":"∞","accent":"#4c5872","motif":"Intersecting orbits and an infinite loop"},
+  {"id":"unanswered","title":"The Unanswered","description":"At the edge of what we know, there is room to wonder.","symbol":"☾","accent":"#665371","motif":"A crescent moon among distant stars"}
+]
