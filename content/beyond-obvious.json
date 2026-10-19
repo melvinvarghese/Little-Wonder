@@ -1,0 +1,152 @@
+[
+  {
+    "id": "the-host-knows-where-the-goat-is",
+    "title": "The Host Knows Where the Goat Is",
+    "category": "beyond-obvious",
+    "opening": "Two doors remain closed, so switching feels like a coin toss. It isn’t—provided the host follows the rules.",
+    "paragraphs": [
+      "At the start, your first choice has a 1-in-3 chance of hiding the prize. That leaves a 2-in-3 chance it is behind one of the other doors. The host, who knows what is where, then opens a losing door among those you did not pick.",
+      "That reveal does not erase your original odds. If your first pick was wrong—which happens 2 times out of 3—the only other unopened door must hold the prize. Switching wins in those cases. Staying wins only when your first pick was right: 1 time in 3."
+    ],
+    "reflection": "The trick is not the door; it is the host’s information. Ask what a reveal was allowed to show before treating it as random.",
+    "readingTime": "1 min",
+    "keywords": ["probability", "Monty Hall", "conditional probability", "decision-making"],
+    "sources": [{"title": "The Monty Hall Problem — University of Illinois Data Science Discovery", "url": "https://discovery.cs.illinois.edu/learn/Prediction-and-Probability/The-Monty-Hall-Problem/"}],
+    "visual": "beyond-obvious"
+  },
+  {
+    "id": "the-room-is-full-of-birthday-pairs",
+    "title": "The Room Is Full of Birthday Pairs",
+    "category": "beyond-obvious",
+    "opening": "With 23 people in a room, a shared birthday is about as likely as not. The surprising part is how many pairs are quietly being compared.",
+    "paragraphs": [
+      "We tend to compare everyone with ourselves, giving 22 chances for a match. But any two people can share a date. A group of 23 contains 253 distinct pairs, so there are far more opportunities for coincidence than intuition first notices.",
+      "Assume birthdays are spread evenly across 365 days and ignore leap day. It is easier to calculate the chance that nobody matches: each new person must avoid all birthdays already seen. Multiplying those successive chances gives a no-match probability of about 49.3%, so the chance of at least one shared birthday is about 50.7%. The 253 pair comparisons are not independent, so their probabilities cannot simply be multiplied."
+    ],
+    "reflection": "This is a group-match question, not a question about someone matching you. Changing the comparison changes the answer.",
+    "readingTime": "1 min",
+    "keywords": ["birthday paradox", "probability", "combinations", "coincidence"],
+    "sources": [{"title": "Birthday Problem — Harvey Mudd College Math Fun Facts", "url": "https://math.hmc.edu/funfacts/birthday-problem/"}],
+    "visual": "beyond-obvious"
+  },
+  {
+    "id": "when-the-average-reverses-the-story",
+    "title": "When the Average Reverses the Story",
+    "category": "beyond-obvious",
+    "opening": "Two treatments can each look better in every subgroup—and still look worse when all patients are pooled.",
+    "paragraphs": [
+      "This is Simpson’s paradox. Imagine one hospital treats many straightforward cases and another receives mostly severe ones. A treatment can have a higher success rate within both severity groups, yet a lower overall rate if it was used disproportionately on the hardest cases.",
+      "The arithmetic has not broken. The groups contribute different numbers of people, so their averages carry different weights. Pooling can conceal that mix and even reverse the comparison. Which number matters depends on the question and on what variables shape who received each treatment; subgroup rates alone do not automatically establish cause."
+    ],
+    "reflection": "Whenever a headline compares totals, look for the hidden categories—and ask whether the groups were assembled in comparable ways.",
+    "readingTime": "1 min",
+    "keywords": ["Simpson's paradox", "statistics", "aggregation", "confounding"],
+    "sources": [{"title": "Questionable Methods | Simpson’s Paradox — Stanford Best Practices in Science", "url": "https://bps.stanford.edu/home/statistical-forensics/statistical-forensics-questionable-methods/questionable-methods-simpsons"}],
+    "visual": "beyond-obvious"
+  },
+  {
+    "id": "why-numbers-favor-the-small-first-digit",
+    "title": "Why Numbers Favor the Small First Digit",
+    "category": "beyond-obvious",
+    "opening": "In many datasets, numbers begin with 1 more often than 9. It sounds like nature has a favorite digit, but scale is doing the work.",
+    "paragraphs": [
+      "Benford’s law predicts that a leading digit d appears with probability log₁₀(1 + 1/d). That gives a first digit of 1 about 30% of the time, while 9 appears about 4.6%. The pattern can arise when data span several orders of magnitude and are reasonably smooth on a logarithmic scale.",
+      "Think of a quantity growing from 100 to 200: it spends a longer stretch beginning with 1 than it does going from 900 to 1,000. Across many scales, this uneven digit time accumulates. But the rule is not universal: assigned ID numbers, tightly bounded measurements, and prices designed to end in .99 need not follow it."
+    ],
+    "reflection": "A digit pattern can be a useful clue, never a verdict by itself. First check whether the data are the kind that could produce it.",
+    "readingTime": "1 min",
+    "keywords": ["Benford's law", "first digits", "logarithms", "data"],
+    "sources": [{"title": "A Simple Explanation of Benford’s Law — R. M. Fewster, hosted by Williams College Mathematics", "url": "https://web.williams.edu/Mathematics/sjmiller/public_html/ntprob19/handouts/benford/Fewster_SimpleExplanationBenfordLaw.pdf"}],
+    "visual": "beyond-obvious"
+  },
+  {
+    "id": "why-extreme-results-often-calm-down",
+    "title": "Why Extreme Results Often Calm Down",
+    "category": "beyond-obvious",
+    "opening": "A student gets an unusually low score, studies hard, then scores closer to their usual level. Did the study session cause all the improvement? Not necessarily.",
+    "paragraphs": [
+      "Measurements contain variation. When a result is extreme partly because of random noise, the next measurement is likely to include less of that same extreme noise. It therefore tends to sit nearer the person’s typical value. Statisticians call this regression to the mean; it is a tendency, not a promise that every next result will be average.",
+      "The same pattern can make a remedy appear effective if people are selected for help right after an unusually bad measurement. Some would improve on a repeat test even without the remedy. A comparison group and repeated measurements help separate that natural settling from a real treatment effect."
+    ],
+    "reflection": "When a change follows an outlier, ask what would have happened over the same time without the intervention.",
+    "readingTime": "1 min",
+    "keywords": ["regression to the mean", "statistics", "measurement", "experiments"],
+    "sources": [{"title": "Regression to the Mean and Change Score Analysis — University of Virginia Library StatLab", "url": "https://library.virginia.edu/data/articles/regression-mean-and-change-score-analysis"}],
+    "visual": "beyond-obvious"
+  },
+  {
+    "id": "a-positive-test-is-not-the-whole-story",
+    "title": "A Positive Test Is Not the Whole Story",
+    "category": "beyond-obvious",
+    "opening": "A test can catch every case and still produce mostly false alarms when the condition is rare.",
+    "paragraphs": [
+      "Suppose 1 in 1,000 people has a condition. A test catches every case, but also flags 5% of healthy people. In a group of 1,000, that is about one true positive and 50 false positives. So among roughly 51 positive results, only one person has the condition: about a 2% chance.",
+      "The calculation does not say the test is useless. It shows why accuracy is not one number: sensitivity, false-positive rate, and prevalence all matter. The result changes when prevalence or the test’s performance changes. In real medicine, a clinician interprets the test alongside symptoms, history, and sometimes a confirmatory test."
+    ],
+    "reflection": "When you hear “the test is 95% accurate,” ask: accurate for whom, and how common is the thing being tested for?",
+    "readingTime": "1 min",
+    "keywords": ["base rates", "false positives", "Bayes", "medical testing"],
+    "sources": [{"title": "Mitigating the Base-Rate Neglect Cognitive Bias in Data Science Education — Communications of the ACM", "url": "https://cacm.acm.org/blogcacm/mitigating-the-base-rate-neglect-cognitive-bias-in-data-science-education/"}],
+    "visual": "beyond-obvious"
+  },
+  {
+    "id": "the-coin-doesnt-remember",
+    "title": "The Coin Doesn’t Remember",
+    "category": "beyond-obvious",
+    "opening": "After eight heads in a row, tails can feel overdue. For a fair coin, the next toss still has a 50–50 chance.",
+    "paragraphs": [
+      "That belief is the gambler’s fallacy: treating earlier independent outcomes as if they push the next one toward balance. Each toss is a fresh physical event; the coin has no memory. Eight heads in a row is unlikely before the sequence begins, but once those tosses have happened, they do not change the odds of the next toss.",
+      "A particular sequence of ten tosses—say, heads, tails, heads, then seven more outcomes—is just as likely as ten heads: each has probability 1 in 1,024 for a fair coin. A shuffled-looking sequence seems more typical because many different sequences look mixed, not because any one exact order is favored."
+    ],
+    "reflection": "Before expecting a random streak to end, check whether the process truly resets or whether past outcomes change what can happen next.",
+    "readingTime": "1 min",
+    "keywords": ["gambler's fallacy", "independence", "coin toss", "randomness"],
+    "sources": [{"title": "Independent Events and the Gambler’s Fallacy — LabXchange, Harvard University", "url": "https://www.labxchange.org/library/items/lb:LabXchange:d3429cd1:html:1"}],
+    "visual": "beyond-obvious"
+  },
+  {
+    "id": "the-smaller-object-feels-heavier",
+    "title": "The Smaller Object Feels Heavier",
+    "category": "beyond-obvious",
+    "opening": "Lift two boxes with the same mass, one small and one large. The small one may feel heavier—even when you know the scale says otherwise.",
+    "paragraphs": [
+      "This is the size–weight illusion. People often judge the smaller of two equal-weight objects as heavier. The sensation is not a simple readout from the muscles: perceived weight is shaped by comparison and by visual information about size or density.",
+      "The effect can persist after a person learns that both objects weigh the same. Researchers continue to test which mechanisms best explain it; a recent study found that perceived weight across object pairs reflected both weight and density cues, with their influence changing according to the objects’ weight difference. So the illusion is robust, but its explanation is more nuanced than “the brain expects big things to weigh more.”"
+    ],
+    "reflection": "Our senses combine evidence rather than report measurements like instruments. A label can correct a belief without instantly changing a feeling.",
+    "readingTime": "1 min",
+    "keywords": ["size-weight illusion", "perception", "touch", "density"],
+    "sources": [{"title": "The Size-Weight Illusion and Beyond: A New Model of Perceived Weight — PLOS Computational Biology", "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013496"}],
+    "visual": "beyond-obvious"
+  },
+  {
+    "id": "the-red-mug-under-blue-light",
+    "title": "The Red Mug Under Blue Light",
+    "category": "beyond-obvious",
+    "opening": "Change the light in a room and the wavelengths reaching your eyes change too. Yet your red mug usually still looks red.",
+    "paragraphs": [
+      "Color constancy is the visual system’s ability to perceive an object’s color as relatively stable under different illumination. The light entering the eye depends both on the light source and on what the surface reflects, so those two causes are tangled together. Your brain uses surrounding colors, context, and experience to make a useful estimate of the surface.",
+      "That estimate is not perfect or identical in every setting. In one real-world study, people matched familiar objects’ colors with high consistency across several room illuminations when given natural visual context. Color can still look ambiguous when the lighting cues are weak or unusual."
+    ],
+    "reflection": "Seeing color is partly an inference about the world, not simply a readout of wavelengths. The room around an object helps shape what color you experience.",
+    "readingTime": "1 min",
+    "keywords": ["color constancy", "vision", "illumination", "perception"],
+    "sources": [{"title": "Color Constancy in Real-World Settings — Journal of Vision", "url": "https://jov.arvojournals.org/article.aspx?articleid=2793408"}],
+    "visual": "beyond-obvious"
+  },
+  {
+    "id": "why-your-friends-seem-more-popular",
+    "title": "Why Your Friends Seem More Popular",
+    "category": "beyond-obvious",
+    "opening": "On average, your friends may have more friends than you do. It is not a trick of social media; it is a feature of how networks are sampled.",
+    "paragraphs": [
+      "To appear on someone’s friend list, a person must be chosen by at least one other person. Highly connected people have more chances to appear on many lists, while someone with few connections appears less often. So when you look outward from a person to their friends, the sample is weighted toward people with larger networks.",
+      "In a network, this makes the average number of friends held by your friends tend to exceed your own number, a result called the friendship paradox. It describes an average, not every friendship: some people’s friends are less connected, and in a network where everyone has exactly the same number of connections, the effect disappears."
+    ],
+    "reflection": "A sample gathered through relationships can overrepresent the well-connected. The people you encounter are not always a neutral sample of everyone.",
+    "readingTime": "1 min",
+    "keywords": ["friendship paradox", "networks", "sampling bias", "social science"],
+    "sources": [{"title": "Your Friends Have More Friends Than You—and That’s a Good Thing for Marketers and Public Health Officials — Yale Insights", "url": "https://insights.som.yale.edu/insights/your-friends-have-more-friends-than-you-and-thats-good-thing-for-marketers-and-public"}],
+    "visual": "beyond-obvious"
+  }
+]

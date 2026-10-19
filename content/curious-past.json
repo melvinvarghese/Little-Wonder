@@ -1,0 +1,274 @@
+[
+  {
+    "id": "antikythera-cosmos-in-gears",
+    "title": "A Shipwrecked Machine That Mapped the Sky",
+    "category": "curious-past",
+    "opening": "A corroded lump from an ancient shipwreck turned out to be a pocket-sized model of the heavens.",
+    "paragraphs": [
+      "Divers recovered the bronze fragments near the Greek island of Antikythera in 1900–01. For decades, they looked like little more than scrap. X-rays and later detailed scans revealed tightly packed gears and inscriptions: the remains of a hand-operated astronomical instrument, probably made in the second or first century BCE.",
+      "Turn its crank, researchers infer, and linked dials could track cycles of the Sun and Moon, predict eclipses, and mark calendars or festival dates. Some parts are missing, so scholars still debate how the device represented the planets and where it was built. It was not a modern computer in miniature, but it did turn mathematical patterns into moving metal.",
+      "Imagine winding a machine to see when the sky would repeat itself. What other kinds of knowledge might ancient craftspeople have hidden in gears?"
+    ],
+    "reflection": "The mechanism survives as a reminder that ancient technology could be astonishingly sophisticated—even when most of its makers' world has disappeared.",
+    "readingTime": "1 min",
+    "keywords": [
+      "Antikythera",
+      "ancient Greece",
+      "astronomy",
+      "mechanical calculator"
+    ],
+    "sources": [
+      {
+        "title": "Decoding the Antikythera Mechanism, the First Computer",
+        "url": "https://www.smithsonianmag.com/history/decoding-antikythera-mechanism-first-computer-180953979/"
+      }
+    ],
+    "visual": "curious-past"
+  },
+  {
+    "id": "margaret-knights-paper-bag-machine",
+    "title": "The Inventor Behind the Flat-Bottomed Paper Bag",
+    "category": "curious-past",
+    "opening": "The grocery bag's neat, boxy base was once a hard mechanical problem—and a man tried to claim the solution.",
+    "paragraphs": [
+      "Margaret E. Knight designed a machine that could cut, fold, and paste flat-bottomed paper bags, She began developing it while working at a Massachusetts paper-bag company around 1867. After more than two years of work, she had a wooden prototype and hired a machinist to build a working model for a patent application.",
+      "Before it was finished, the machinist, Charles Annan, filed for the patent himself. Knight challenged him with drawings, notes, diary entries, and witnesses. Annan reportedly argued that a woman could not understand such machinery; Knight answered by explaining its parts and operation in detail. The Patent Office awarded the patent to her in 1871. Knight later held more than twenty patents.",
+      "A familiar paper bag carries an overlooked story of engineering skill, persistence, and a fight to have the inventor's name recognized."
+    ],
+    "reflection": "Next time a bag stands upright on its own, remember the ingenuity—and the courtroom determination—that helped make it possible.",
+    "readingTime": "1 min",
+    "keywords": [
+      "Margaret Knight",
+      "invention",
+      "paper bags",
+      "patents"
+    ],
+    "sources": [
+      {
+        "title": "Margaret Knight Invented a Machine that Shapes the Way We Shop",
+        "url": "https://womenshistory.si.edu/blog/margaret-knight-invented-machine-shapes-way-we-shop"
+      },
+      {
+        "title": "Patent Model for Paper Bag Machine",
+        "url": "https://www.si.edu/object/patent-model-paper-bag-machine%3Anmah_214303"
+      }
+    ],
+    "visual": "curious-past"
+  },
+  {
+    "id": "mary-anning-and-the-sea-dragons",
+    "title": "The Fossil Hunter Who Changed the Prehistoric World",
+    "category": "curious-past",
+    "opening": "On England's stormy shore, a teenager uncovered bones that made people reconsider what had once lived on Earth.",
+    "paragraphs": [
+      "Mary Anning grew up poor in Lyme Regis, where she learned to find and prepare fossils. In 1811, her brother Joseph found a strange skull; Mary then spent months tracing and excavating the five-metre skeleton. The animal was eventually identified as an ichthyosaur, an extinct marine reptile. Her careful finds helped make fossils central to the emerging study of Earth's ancient life.",
+      "Anning later found the first complete plesiosaur skeleton and remains of a pterosaur outside Germany. Yet scientific societies excluded women, and scholars who bought or studied her specimens often failed to credit her. The Natural History Museum notes that she taught herself geology and anatomy and that her finds fueled public interest in palaeontology.",
+      "Her work sits at the intersection of patience, expertise, and access: who gets to collect evidence, and whose name gets attached to it?"
+    ],
+    "reflection": "Anning's fossils still draw crowds, but so does the story of the scientist whose knowledge was easier to use than to acknowledge.",
+    "readingTime": "1 min",
+    "keywords": [
+      "Mary Anning",
+      "fossils",
+      "palaeontology",
+      "Jurassic Coast"
+    ],
+    "sources": [
+      {
+        "title": "Mary Anning: The unsung hero of fossil discovery",
+        "url": "https://www.nhm.ac.uk/discover/mary-anning-unsung-hero.html"
+      }
+    ],
+    "visual": "curious-past"
+  },
+  {
+    "id": "ada-lovelace-imagines-computation",
+    "title": "Ada Lovelace Saw Beyond the Numbers",
+    "category": "curious-past",
+    "opening": "A machine that never got built still sparked a vision of what computers might one day do.",
+    "paragraphs": [
+      "In the 1830s, mathematician Charles Babbage designed the Analytical Engine, a steam-powered machine intended to carry out many kinds of calculation. It remained unfinished. Ada Lovelace, who had met Babbage as a young woman, published an account of the design in 1843, adding extensive notes of her own.",
+      "Lovelace described how punched cards might direct the machine and explored how it could manipulate symbols as well as numbers—if those symbols could be represented by rules. Her Bernoulli-number table is often called the first computer program, though scholars note it was an execution trace, not punched-card code. The Science Museum describes her as interpreting and publicizing Babbage's design; the Engine itself was never completed in her lifetime.",
+      "Her striking insight was not that a machine had already composed music or thought for itself, but that a programmable machine might work with patterns beyond arithmetic."
+    ],
+    "reflection": "Lovelace's story invites a useful question: when does a tool for calculation become a tool for imagination?",
+    "readingTime": "1 min",
+    "keywords": [
+      "Ada Lovelace",
+      "Analytical Engine",
+      "computing history",
+      "mathematics"
+    ],
+    "sources": [
+      {
+        "title": "Charles Babbage’s Difference Engines and the Science Museum",
+        "url": "https://www.sciencemuseum.org.uk/objects-and-stories/charles-babbages-difference-engines-and-science-museum"
+      },
+      {
+        "title": "Ada Lovelace and the Analytical Engine",
+        "url": "https://blogs.bodleian.ox.ac.uk/adalovelace/2018/07/26/ada-lovelace-and-the-analytical-engine/"
+      }
+    ],
+    "visual": "curious-past"
+  },
+  {
+    "id": "alice-ball-and-chaulmoogra-oil",
+    "title": "Alice Ball's Breakthrough—and the Credit She Nearly Lost",
+    "category": "curious-past",
+    "opening": "At 23, chemist Alice Ball transformed an old remedy into a treatment patients could receive by injection.",
+    "paragraphs": [
+      "In Hawai‘i, Ball worked on chaulmoogra oil, used against Hansen's disease but difficult to apply effectively. She developed a way to process the oil into an injectable form. It became the most effective treatment until other medicines arrived in the 1940s—not a cure, but a source of hope.",
+      "Ball died in 1916, aged 24, before she could publish the findings. Another chemist continued the work, and her contribution was obscured for years. Public health officer Harry Hollmann later credited her method in print, helping restore her name to the history of the treatment. She was also the first woman and African American woman to earn a master's degree at the College of Hawai‘i.",
+      "A scientific result can change lives; giving its maker credit can take much longer."
+    ],
+    "reflection": "Ball's brief career is a reminder to ask not only what a discovery did, but whose labor made it possible.",
+    "readingTime": "1 min",
+    "keywords": [
+      "Alice Ball",
+      "chemistry",
+      "Hansen's disease",
+      "medical history"
+    ],
+    "sources": [
+      {
+        "title": "A Woman Who Changed the World",
+        "url": "https://uhfoundation.org/impact/students/woman-who-changed-world"
+      }
+    ],
+    "visual": "curious-past"
+  },
+  {
+    "id": "roman-concrete-that-could-heal",
+    "title": "The White Flecks That May Help Roman Concrete Mend",
+    "category": "curious-past",
+    "opening": "A crumbly white speck inside ancient concrete may be part of why some Roman structures endured for centuries.",
+    "paragraphs": [
+      "Roman builders mixed lime and volcanic ash into concrete used for roads, buildings, and harbors. Researchers had long noticed small white fragments, called lime clasts, but often treated them as signs of poor mixing. A 2023 study led by researchers at MIT proposed a different explanation after analyzing samples from an archaeological site in Privernum, Italy.",
+      "The team argued that Romans used a hot-mixing process involving quicklime. In laboratory tests, concrete made with the proposed approach healed deliberately created cracks within two weeks, while a comparison sample did not. That is evidence for a possible self-healing mechanism, not proof that every Roman structure or recipe worked the same way. Researchers continue to investigate why particular ancient constructions lasted so long.",
+      "Sometimes a feature that looks like a flaw turns out to be a clue to how a material was made."
+    ],
+    "reflection": "The old walls still have secrets—but careful experiments, not easy legends, are how we get closer to them.",
+    "readingTime": "1 min",
+    "keywords": [
+      "Roman concrete",
+      "engineering",
+      "materials science",
+      "archaeology"
+    ],
+    "sources": [
+      {
+        "title": "Riddle solved: Why was Roman concrete so durable?",
+        "url": "https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106"
+      }
+    ],
+    "visual": "curious-past"
+  },
+  {
+    "id": "herons-coin-operated-water-dispenser",
+    "title": "An Ancient Temple Had a Coin-Operated Dispenser",
+    "category": "curious-past",
+    "opening": "Long before snack machines, one ingenious device made a coin release a measured flow of water.",
+    "paragraphs": [
+      "The Greek engineer Heron of Alexandria described a coin-operated holy-water dispenser for Egyptian temples. A worshipper dropped a coin into a slot; its weight tipped a small pan, which opened a valve and let water flow. When the coin slid off, the pan rose and the valve closed. The mechanism turned a brief payment into an automatic action, without a person ladling each portion.",
+      "A Smith College history-of-science exhibit explains the machine as a practical way to dispense water for ritual washing. Heron's writing describes a design, not a surviving machine, so we cannot be sure how widely it was built or used. Calling it an ancestor of the vending machine is a handy comparison, though it sold no snacks and did not run on electricity.",
+      "The clever part is the simple chain of cause and effect: coin, lever, valve, water."
+    ],
+    "reflection": "What everyday conveniences today might seem just as surprising to someone two thousand years from now?",
+    "readingTime": "1 min",
+    "keywords": [
+      "Heron of Alexandria",
+      "ancient inventions",
+      "temples",
+      "mechanisms"
+    ],
+    "sources": [
+      {
+        "title": "Coin-Operated Holy Water Dispensing Machine",
+        "url": "https://www.smith.edu/bigbad/historyscitech/museum/ancient_inventions/hsc18b.htm"
+      }
+    ],
+    "visual": "curious-past"
+  },
+  {
+    "id": "londons-gas-lit-traffic-signal",
+    "title": "London's First Traffic Light Ran on Gas",
+    "category": "curious-past",
+    "opening": "Before cars filled city streets, London tried to keep horse-drawn traffic moving with a gas-lit signal.",
+    "paragraphs": [
+      "In December 1868, a signal appeared outside the Houses of Parliament. Railway engineer J. P. Knight proposed it to help police manage carriages. By day, an officer moved semaphore arms; at night, red and green gas lamps showed drivers when to stop or proceed. It looked more like a railway signal turned upright than the familiar electric lights of today.",
+      "The system was manually operated, and the gas lamps created a serious danger. Washington State University's history of traffic signals reports that the apparatus sometimes exploded and injured police officers. The experiment was removed after a short time. Electric signals came decades later, as automobiles changed the scale and pace of street traffic.",
+      "That first trial was not a direct ancestor in every technical detail, but it shows cities already wrestling with the same question: how can strangers share a crowded road safely?"
+    ],
+    "reflection": "A traffic light seems ordinary now; its early version was an uneasy mix of gas, machinery, and human judgment.",
+    "readingTime": "1 min",
+    "keywords": [
+      "traffic lights",
+      "London",
+      "Victorian engineering",
+      "transport"
+    ],
+    "sources": [
+      {
+        "title": "Traffic signals: A brief history",
+        "url": "https://magazine.wsu.edu/web-extra/traffic-signals-a-brief-history/"
+      }
+    ],
+    "visual": "curious-past"
+  },
+  {
+    "id": "bazalgette-londons-hidden-rivers",
+    "title": "The Engineer Who Sent London's Sewage Underground",
+    "category": "curious-past",
+    "opening": "In the summer of 1858, the smell of the Thames helped push London toward a vast underground rebuild.",
+    "paragraphs": [
+      "The Great Stink came as heat baked human and industrial waste in the river. London Museum explains that Parliament hurried funding for a new sewer network, led by engineer Joseph Bazalgette. His plan joined drains to brick-lined intercepting sewers and pumping stations that carried waste downstream, away from central London.",
+      "The project was enormous: about 1,100 miles of street drains fed into 82 miles of major sewers. Construction required millions of bricks, and the works also reshaped the riverfront with new embankments. Much of the Victorian network remains part of London's system, though the original design was not a complete fix: sewage still entered the Thames during heavy rainfall, and later treatment plants were needed.",
+      "Bazalgette did not invent sanitation alone, but his carefully managed infrastructure changed what city life could be."
+    ],
+    "reflection": "Some of the most consequential inventions are hidden underfoot, doing their work so quietly that a city forgets to notice them.",
+    "readingTime": "1 min",
+    "keywords": [
+      "Joseph Bazalgette",
+      "Great Stink",
+      "London sewers",
+      "urban engineering"
+    ],
+    "sources": [
+      {
+        "title": "How Bazalgette built London's first super-sewer",
+        "url": "https://www.londonmuseum.org.uk/collections/london-stories/how-bazalgette-built-londons-first-super-sewer/"
+      }
+    ],
+    "visual": "curious-past"
+  },
+  {
+    "id": "anna-atkins-blueprint-algae",
+    "title": "The Botanist Who Made a Book of Blue Seaweed",
+    "category": "curious-past",
+    "opening": "A British botanist turned seaweed into delicate white silhouettes on brilliant blue pages—and helped invent a new kind of book.",
+    "paragraphs": [
+      "Anna Atkins began making cyanotypes of British algae in 1843. She placed specimens on light-sensitive paper and exposed it to light. The plant left a pale silhouette on deep blue paper. The New York Public Library says Atkins arranged and developed images of more than 400 specimens, sending the plates to botanical acquaintances in installments.",
+      "Her self-published Photographs of British Algae: Cyanotype Impressions is recognized as the first photographically illustrated book. The process was useful as well as beautiful: the prints could show the shape of a specimen without an artist redrawing it. Atkins worked in a field where women had limited access to professional science, and she combined botanical knowledge with a relatively new photographic technique.",
+      "Each page is both an image and a record: a plant pressed into light, preserving a moment of careful observation."
+    ],
+    "reflection": "Atkins's blue pages make science feel tactile—like opening a herbarium that was printed by sunlight.",
+    "readingTime": "1 min",
+    "keywords": [
+      "Anna Atkins",
+      "cyanotype",
+      "photography",
+      "botany"
+    ],
+    "sources": [
+      {
+        "title": "Anna Atkins's Photographs of British Algae: Cyanotype Impressions",
+        "url": "https://www.nypl.org/events/exhibitions/galleries/visual-world/item/4105"
+      },
+      {
+        "title": "Anna Atkins’s cyanotypes: The first book of photographs",
+        "url": "https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html"
+      }
+    ],
+    "visual": "curious-past"
+  }
+]

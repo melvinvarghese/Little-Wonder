@@ -1,0 +1,288 @@
+[
+  {
+    "id": "dark-matter-identity",
+    "title": "What Is Dark Matter Made Of?",
+    "category": "unanswered",
+    "opening": "Galaxies behave as though they contain far more mass than their shining stars and gas reveal. The missing ingredient is called dark matter, but the name describes a puzzle, not a substance we have identified.",
+    "paragraphs": [
+      "What is established is its gravitational influence. Stars orbit at speeds that visible matter alone cannot explain; clusters bend background light, and maps of those distortions trace unseen mass. Across several independent observations, the evidence for extra gravitating matter is strong.",
+      "Its ingredients remain unknown. Possibilities include undiscovered particles, such as axions or weakly interacting massive particles, but no candidate has been confirmed. Dark matter appears not to emit or absorb light in the ordinary way, and observations constrain how it clusters and moves. Those clues narrow the field without naming the answer."
+    ],
+    "reflection": "The next decisive clue may come from a detector, a telescope, or a pattern that does not fit the leading models. Until then, a powerful gravitational signature is real; its source is still open.",
+    "readingTime": "1 min",
+    "keywords": [
+      "dark matter",
+      "cosmology",
+      "particle physics",
+      "gravity"
+    ],
+    "sources": [
+      {
+        "title": "Dark Matter — NASA Science",
+        "url": "https://science.nasa.gov/dark-matter/"
+      },
+      {
+        "title": "DESI Reaches Mapping Milestone, Surpassing Expectations — DESI Collaboration",
+        "url": "https://www.desi.lbl.gov/2026/04/15/desi-reaches-mapping-milestone-surpassing-expectations/"
+      }
+    ],
+    "visual": "unanswered"
+  },
+  {
+    "id": "dark-energy-nature",
+    "title": "What Is Making the Universe Expand Faster?",
+    "category": "unanswered",
+    "opening": "The universe is expanding, and observations show that its expansion has accelerated over cosmic time. Astronomers call the cause dark energy, a label for an observed effect whose underlying nature remains unknown.",
+    "paragraphs": [
+      "The evidence is not a single strange measurement: distant supernovae, the cosmic microwave background, and the large-scale arrangement of galaxies all help map cosmic expansion. In April 2026, the DESI collaboration reported completing its planned five-year sky map; its first three years, combined with other datasets, had hinted that dark energy could change over time.",
+      "That hint is not a settled discovery. Those data alone fit the standard cosmological model, and the full-survey dark-energy results were still expected in 2027. Researchers are testing whether dark energy is a constant property of space, a changing field, or a sign that gravity or the model needs revision."
+    ],
+    "reflection": "The open question is not whether cosmic expansion accelerates, but what the observations are telling us about its cause. Better maps may sharpen the choice; for now, the explanation remains unsettled.",
+    "readingTime": "1 min",
+    "keywords": [
+      "dark energy",
+      "cosmic expansion",
+      "DESI",
+      "cosmology"
+    ],
+    "sources": [
+      {
+        "title": "Dark Energy — NASA Science",
+        "url": "https://science.nasa.gov/dark-energy/"
+      },
+      {
+        "title": "DESI Reaches Mapping Milestone, Surpassing Expectations — DESI Collaboration",
+        "url": "https://www.desi.lbl.gov/2026/04/15/desi-reaches-mapping-milestone-surpassing-expectations/"
+      },
+      {
+        "title": "New DESI Results Strengthen Hints That Dark Energy May Evolve — Fermilab",
+        "url": "https://news.fnal.gov/2025/03/new-desi-results-strengthen-hints-that-dark-energy-may-evolve/"
+      }
+    ],
+    "visual": "unanswered"
+  },
+  {
+    "id": "origin-of-life",
+    "title": "How Did Life Begin on Earth?",
+    "category": "unanswered",
+    "opening": "At some point, chemistry on the young Earth crossed into biology. We know life exists and evolves, but no one has reconstructed the sequence that first turned nonliving chemistry into a self-sustaining, evolving system.",
+    "paragraphs": [
+      "Researchers have identified plausible pieces of the puzzle: organic molecules can form naturally, chemical reactions can assemble components, and laboratory systems show that some molecules can copy or catalyse reactions. These are important demonstrations, not a complete account of the first living system or proof of one specific pathway.",
+      "Open questions include where the transition happened, which molecules came first, and how a membrane, metabolism, and reliable inheritance became linked. The ancient evidence is sparse, and the conditions of early Earth are reconstructed indirectly. Several routes—such as shallow ponds or hydrothermal settings—remain under investigation."
+    ],
+    "reflection": "A successful explanation will need to connect chemistry to an evolving population, not merely make one life-like ingredient. We can test pieces of that journey, but the historic path itself is not yet known.",
+    "readingTime": "1 min",
+    "keywords": [
+      "origin of life",
+      "abiogenesis",
+      "early Earth",
+      "systems chemistry"
+    ],
+    "sources": [
+      {
+        "title": "The origin of life: what we know, what we can know and what we will never know — Interface Focus / PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3718341/"
+      },
+      {
+        "title": "Seeking the Origins of Life — NASA Science",
+        "url": "https://science.nasa.gov/universe/search-for-life/"
+      }
+    ],
+    "visual": "unanswered"
+  },
+  {
+    "id": "conscious-experience",
+    "title": "Why Does Brain Activity Feel Like Anything?",
+    "category": "unanswered",
+    "opening": "A brain can detect light, remember a song, and report pain. But why should physical activity in a brain be accompanied by an inner point of view—by the felt redness of red or the sting of pain? That question remains disputed.",
+    "paragraphs": [
+      "Neuroscience has made measurable progress on attention, perception, sleep, and the brain processes that accompany conscious reports. Researchers can compare experience with neural activity and test how different states affect behavior. These findings are real advances, even though they do not settle every question about subjective experience.",
+      "Philosophers call the explanatory gap between physical processes and what experience feels like the hard problem. Some argue that future neuroscience can close it; others question whether the problem is framed correctly or requires a different account of mind. There is no agreed theory that resolves the debate."
+    ],
+    "reflection": "The mystery is not a license to dismiss brain science, nor proof that science must fail. It marks a live question about what counts as an explanation—and how a first-person life fits into a third-person account.",
+    "readingTime": "1 min",
+    "keywords": [
+      "consciousness",
+      "neuroscience",
+      "philosophy of mind",
+      "subjective experience"
+    ],
+    "sources": [
+      {
+        "title": "The Hard Problem of Consciousness — Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/hard-problem-of-conciousness/"
+      },
+      {
+        "title": "The “Hard Problem of Consciousness” Arises from Human Distinctiveness — PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10449398/"
+      }
+    ],
+    "visual": "unanswered"
+  },
+  {
+    "id": "matter-antimatter-imbalance",
+    "title": "Why Did Matter Survive the Big Bang?",
+    "category": "unanswered",
+    "opening": "Matter and antimatter annihilate when they meet. If the early universe made equal amounts of each, they should have mostly erased one another, leaving radiation—and no stars, planets, or people. Yet a little matter remained.",
+    "paragraphs": [
+      "Experiments show that some particles and antiparticles behave slightly differently, a phenomenon called CP violation. CERN’s LHCb experiment measures these asymmetries with increasing precision. Such effects are real, but the known sources in the Standard Model are too small to account for the universe’s matter surplus.",
+      "Physicists therefore search for additional processes that could have tipped the balance in the first moments of cosmic history. The precise mechanism is unknown, and recreating the full early-universe conditions in a laboratory is impossible. Measurements of rare particle decays may reveal missing clues without directly replaying the beginning."
+    ],
+    "reflection": "Every atom in us carries the trace of an imbalance whose cause has not been identified. The universe offers evidence of the outcome; the story of how matter won remains unfinished.",
+    "readingTime": "1 min",
+    "keywords": [
+      "matter antimatter",
+      "CP violation",
+      "particle physics",
+      "early universe"
+    ],
+    "sources": [
+      {
+        "title": "Searching for New Asymmetry Between Matter and Antimatter — CERN",
+        "url": "https://home.cern/searching-new-asymmetry-between-matter-and-antimatter/"
+      }
+    ],
+    "visual": "unanswered"
+  },
+  {
+    "id": "black-hole-information",
+    "title": "What Happens to Information in a Black Hole?",
+    "category": "unanswered",
+    "opening": "A black hole can swallow matter, and quantum theory says information about physical states should not simply vanish. Hawking’s calculation of black-hole radiation exposed a conflict between that expectation and gravity’s most extreme objects.",
+    "paragraphs": [
+      "The paradox is theoretical, not evidence that black holes break known laws in an observed experiment. General relativity describes gravity and black-hole horizons well in many settings; quantum mechanics describes matter at small scales. A complete theory combining them is still missing.",
+      "Mathematical work on quantum entanglement and black-hole evaporation has made significant progress, including ways to recover information in idealized models. The remaining challenge is to understand, in a full and physically realistic account, how information is encoded in the outgoing radiation and how spacetime itself behaves at the deepest levels."
+    ],
+    "reflection": "Progress on the paradox is not the same as a settled description of every real black hole. The question keeps its force because it asks whether the universe ultimately preserves the details of its past.",
+    "readingTime": "1 min",
+    "keywords": [
+      "black holes",
+      "quantum gravity",
+      "information paradox",
+      "Hawking radiation"
+    ],
+    "sources": [
+      {
+        "title": "Recent Progress on the Black Hole Information Paradox — Lund University",
+        "url": "https://www.lunduniversity.lu.se/publication/9060679"
+      },
+      {
+        "title": "Frequently Asked Questions on Black Holes — NASA Science",
+        "url": "https://science.nasa.gov/apod/frequently-asked-questions-faqs-on-black-holes/"
+      }
+    ],
+    "visual": "unanswered"
+  },
+  {
+    "id": "life-beyond-earth",
+    "title": "Is There Life Beyond Earth?",
+    "category": "unanswered",
+    "opening": "Thousands of planets beyond our solar system are now known, and the galaxy is likely to contain vastly more. But despite that growing census, Earth remains the only world where life has been confirmed.",
+    "paragraphs": [
+      "Scientists search in several ways: examining nearby worlds for signs of past or present microbes, studying exoplanet atmospheres for possible biosignatures, and listening for signals from technology. A planet in a habitable zone may allow liquid water under some conditions; that alone does not show that life is there.",
+      "No credible, independently confirmed evidence of extraterrestrial life has been found. The unknowns are enormous: how readily life begins, how long it lasts, and whether it commonly becomes complex or detectable. Even a promising chemical signal can have nonliving explanations, so researchers need multiple lines of evidence."
+    ],
+    "reflection": "A discovery elsewhere would change our view of life’s place in nature; a long search without one would still teach us about planets and biology. For now, the honest answer is that we do not know whether Earth is alone.",
+    "readingTime": "1 min",
+    "keywords": [
+      "life beyond Earth",
+      "astrobiology",
+      "exoplanets",
+      "biosignatures"
+    ],
+    "sources": [
+      {
+        "title": "Are We Alone? — NASA Exoplanet Exploration",
+        "url": "https://science.nasa.gov/exoplanets/search-for-life/"
+      }
+    ],
+    "visual": "unanswered"
+  },
+  {
+    "id": "indus-script",
+    "title": "What Do the Indus Signs Say?",
+    "category": "unanswered",
+    "opening": "The cities of the Indus civilization left behind seals, pottery, and tablets marked with repeated signs. Archaeologists can study the objects and their settings, but the symbols have not yielded an accepted reading of the words or language behind them.",
+    "paragraphs": [
+      "The scale of the surviving writing is a serious obstacle: the known corpus is only a few thousand inscriptions, and most are very short. A 2025 BBC report cited an average of about five signs per inscription and noted that no bilingual text has been found to act as a translation key.",
+      "Researchers have used computational methods to identify recurring patterns, evidence that the signs are structured. That does not by itself tell us whether a sign represents a word, sound, or another unit—or which language to test. Proposed decipherments remain disputed; an intriguing match is not a verified translation."
+    ],
+    "reflection": "Reading even a short line could illuminate trade, authority, and belief in one of the ancient world’s great urban societies. Until evidence can distinguish a convincing proposal from a guess, the script’s voice remains beyond our reach.",
+    "readingTime": "1 min",
+    "keywords": [
+      "Indus civilization",
+      "undeciphered script",
+      "archaeology",
+      "ancient writing"
+    ],
+    "sources": [
+      {
+        "title": "A Million-Dollar Challenge to Crack the Script of Early Indians — BBC News",
+        "url": "https://www.bbc.com/news/articles/c70q44zn18wo"
+      },
+      {
+        "title": "Ancient Civilization: Cracking the Indus Script — Nature",
+        "url": "https://www.nature.com/articles/526499a"
+      }
+    ],
+    "visual": "unanswered"
+  },
+  {
+    "id": "cosmic-magnetism-origins",
+    "title": "Where Did the Universe’s Magnetic Fields Begin?",
+    "category": "unanswered",
+    "opening": "Magnetic fields thread stars, galaxies, and even the space between galaxies. Astronomers can detect their effects across cosmic distances, but the origin of the universe’s first large-scale fields is still unknown.",
+    "paragraphs": [
+      "Radio observations reveal magnetism through several measurable clues: polarized waves twist as they travel through fields, atoms produce split spectral lines, and fast-moving charged particles emit synchrotron radiation. These methods let researchers map magnetic environments in galaxies and trace how fields shape cosmic structures.",
+      "The unresolved question is whether substantial fields already existed in the young universe, or whether weaker seeds were generated later and amplified by moving plasma. Both early-universe and astrophysical mechanisms are studied. Observations are difficult because distant fields are faint and their signals can be mixed with those of intervening material."
+    ],
+    "reflection": "A field may be invisible to our eyes yet leave a readable imprint on light. Better radio maps could help reconstruct its history, but the first spark of cosmic magnetism has not been pinned down.",
+    "readingTime": "1 min",
+    "keywords": [
+      "cosmic magnetism",
+      "galaxies",
+      "radio astronomy",
+      "magnetic fields"
+    ],
+    "sources": [
+      {
+        "title": "Understanding Cosmic Magnetism — SKA Observatory",
+        "url": "https://www.skao.int/en/explore/science-goals/139/understanding-cosmic-magnetism"
+      },
+      {
+        "title": "The Origin of Magnetic Fields in Galaxies — Kavli Institute for Cosmology, Cambridge",
+        "url": "https://www.kicc.cam.ac.uk/research/formation-and-evolution-of-galaxies-and-supermassive-black-holes/origin-and-role-magnetism"
+      }
+    ],
+    "visual": "unanswered"
+  },
+  {
+    "id": "free-will-and-determinism",
+    "title": "Can We Be Free in a Law-Governed Universe?",
+    "category": "unanswered",
+    "opening": "If every choice has causes, does that make it less ours? Philosophers have argued for centuries about whether free will can coexist with determinism, the idea that the past and the laws of nature fix what happens next.",
+    "paragraphs": [
+      "The disagreement is not simply about whether people make decisions. It is about what kind of control freedom requires: could we have acted otherwise, must we be the ultimate source of our actions, or is freedom the ability to act according to our reasons without coercion? Each definition changes the problem.",
+      "Compatibilists hold that freedom and determinism can fit together; incompatibilists deny this, though they differ on whether free will exists at all. Neuroscience investigates how decisions unfold in the brain, but experiments do not by themselves settle the philosophical question of responsibility or what freedom should mean."
+    ],
+    "reflection": "The open question sits at the meeting point of science, ethics, and the language we use for choice. Learning more about how decisions happen may inform the debate without choosing a definition for us.",
+    "readingTime": "1 min",
+    "keywords": [
+      "free will",
+      "determinism",
+      "philosophy",
+      "moral responsibility"
+    ],
+    "sources": [
+      {
+        "title": "Free Will — Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/freewill/"
+      },
+      {
+        "title": "The Free Will: Determinism Debate in Contemporary Science and Philosophy — PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12162392/"
+      }
+    ],
+    "visual": "unanswered"
+  }
+]

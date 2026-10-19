@@ -1,0 +1,152 @@
+[
+  {
+    "id": "the-ship-that-kept-its-name",
+    "title": "The Ship That Kept Its Name",
+    "category": "thinking-room",
+    "opening": "A ship can change plank by plank so slowly that nobody marks the moment it becomes a different ship. But has it?",
+    "paragraphs": [
+      "Imagine every board is replaced over the years. The vessel still sails, keeps its name, and carries its familiar crew. Meanwhile, someone saves each old plank and eventually builds a second ship from them. Which one is the original: the continuous traveler, or the ship made of original wood?",
+      "The puzzle pulls apart two things that usually travel together: a thing’s history and its material. If both ships seem to inherit the old identity, we face a logical snag: if the first ship is the same as each, then the two new ships should be the same as each other. They plainly are not. Philosophers offer different accounts of what persistence means; none has ended the argument."
+    ],
+    "reflection": "When you change a little at a time, what makes you still you: the matter you keep, or the life you carry forward?",
+    "readingTime": "1 min",
+    "keywords": ["identity", "change", "Theseus", "persistence"],
+    "sources": [{"title":"Identity Over Time — Stanford Encyclopedia of Philosophy","url":"https://plato.stanford.edu/entries/identity-time/"}],
+    "visual": "thinking-room"
+  },
+  {
+    "id": "would-you-plug-in",
+    "title": "Would You Plug In?",
+    "category": "thinking-room",
+    "opening": "A machine offers you a life that feels completely wonderful. You will never know it is simulated. Would you enter?",
+    "paragraphs": [
+      "Inside, you could write the novel you dream of, mend a friendship, or discover a new world. Each experience would feel real from within. Outside the machine, though, none of those things would actually happen. You would have the feeling of acting, loving, and succeeding, without the events themselves.",
+      "Philosopher Robert Nozick used this imagined choice to test the thought that well-being is only pleasure. Hesitating to plug in may suggest that we care about doing things and becoming certain kinds of people, not just how life feels. But the machine is not a knock-down proof: our intuitions can be questioned, and philosophers disagree about what makes a life go well."
+    ],
+    "reflection": "If every feeling were perfect, but nothing you cared about happened, would that still be a good life?",
+    "readingTime": "1 min",
+    "keywords": ["experience machine", "well-being", "pleasure", "reality"],
+    "sources": [{"title":"Well-Being — Stanford Encyclopedia of Philosophy","url":"https://plato.stanford.edu/entries/well-being/"}],
+    "visual": "thinking-room"
+  },
+  {
+    "id": "the-switch-and-the-push",
+    "title": "The Switch and the Push",
+    "category": "thinking-room",
+    "opening": "A runaway trolley is heading toward five people. You can divert it onto another track, where one person stands. Do you turn the switch?",
+    "paragraphs": [
+      "Now change one detail. The only way to stop the trolley is to push a bystander in front of it. In both versions, one person dies and five are saved. Yet many people judge turning the switch differently from pushing the stranger. What changed: the numbers, or the way the harm enters the plan?",
+      "One explanation appeals to intention: in the switch case, harm to the one may be a foreseen side effect; in the push case, the person is used as the means of stopping the trolley. That distinction is influential, but it does not settle either verdict. Philosophers debate whether the cases really differ morally, and whether a tidy thought experiment can guide choices outside its invented tracks."
+    ],
+    "reflection": "When outcomes match, should the path we take to reach them change our judgment?",
+    "readingTime": "1 min",
+    "keywords": ["trolley problem", "intention", "ethics", "harm"],
+    "sources": [{"title":"The Doctrine of Double Effect — Stanford Encyclopedia of Philosophy","url":"https://plato.stanford.edu/entries/double-effect/"}],
+    "visual": "thinking-room"
+  },
+  {
+    "id": "are-your-memories-you",
+    "title": "Are Your Memories You?",
+    "category": "thinking-room",
+    "opening": "Suppose an accident erased every memory of your childhood. Would you still be the person who lived it?",
+    "paragraphs": [
+      "Memory feels like a bridge between who we were and who we are. If you can remember learning to ride a bike, it seems natural to say that the child in the story was you. But memories fade; a person can forget whole chapters of life and remain awake, continuous, and recognizably themselves.",
+      "A simple memory test also runs into a puzzle: if the young person remembers an earlier event and the older person remembers being young, must the older person remember the original event too? Memory does not always connect every stage in a neat chain. Philosophers therefore explore broader psychological continuity, bodily continuity, and other accounts. There is no agreed answer to what, exactly, makes a person persist."
+    ],
+    "reflection": "Which parts of your past belong to you even when you can no longer recall them?",
+    "readingTime": "1 min",
+    "keywords": ["personal identity", "memory", "self", "continuity"],
+    "sources": [{"title":"Personal Identity — Stanford Encyclopedia of Philosophy","url":"https://plato.stanford.edu/entries/identity-personal/"}],
+    "visual": "thinking-room"
+  },
+  {
+    "id": "the-rules-behind-the-veil",
+    "title": "The Rules Behind the Veil",
+    "category": "thinking-room",
+    "opening": "You must choose the rules for a new society, but you do not know who you will be in it.",
+    "paragraphs": [
+      "You might be wealthy or poor, healthy or ill, part of a majority or a minority. You cannot tailor the rules to your own future place, because that place is hidden from you. What protections would you want everyone to have before you learn where you will land?",
+      "Philosopher John Rawls called this imagined starting point the original position, with a veil of ignorance. The people choosing are not blank slates: they know general facts about society, but not their own status, talents, or personal beliefs. The device aims to make the choice fairer by blocking self-serving bargains. It does not mechanically produce one obvious constitution; what principles it supports, and why, remain matters of debate."
+    ],
+    "reflection": "Would you write different rules if you might wake up as anyone affected by them?",
+    "readingTime": "1 min",
+    "keywords": ["justice", "Rawls", "fairness", "veil of ignorance"],
+    "sources": [{"title":"The Original Position — Stanford Encyclopedia of Philosophy","url":"https://plato.stanford.edu/entries/original-position/"}],
+    "visual": "thinking-room"
+  },
+  {
+    "id": "the-lucky-clock",
+    "title": "The Lucky Clock",
+    "category": "thinking-room",
+    "opening": "You glance at a clock and see 3:00. It stopped yesterday, but by sheer luck it is 3:00 again. Did you know the time?",
+    "paragraphs": [
+      "Your belief is true: it really is three. You also had a reasonable-looking reason to believe it; the clock has always worked before, as far as you knew. Still, the truth arrived by coincidence. If you had looked a few minutes earlier or later, the very same glance would have misled you.",
+      "Cases like this challenge the idea that knowledge is simply a true belief supported by good reasons. The belief seems justified and correct, yet luck appears to have done too much of the work. Philosophers disagree about what else knowledge requires: perhaps a reliable way of arriving at the truth, perhaps a different link between evidence and fact. The puzzle reveals a gap; it does not close it."
+    ],
+    "reflection": "Can you know something when your reason for believing it only happened to be right?",
+    "readingTime": "1 min",
+    "keywords": ["Gettier", "knowledge", "luck", "justification"],
+    "sources": [{"title":"The Analysis of Knowledge — Stanford Encyclopedia of Philosophy","url":"https://plato.stanford.edu/entries/knowledge-analysis/"}],
+    "visual": "thinking-room"
+  },
+  {
+    "id": "two-prisoners-one-bad-outcome",
+    "title": "Two Prisoners, One Bad Outcome",
+    "category": "thinking-room",
+    "opening": "Two prisoners are questioned separately. Each must decide whether to stay silent or accuse the other. Neither can know what the other will choose.",
+    "paragraphs": [
+      "In the classic setup, each person does better by accusing, whatever the other decides. If the other stays silent, accusation brings a lighter sentence for you. If the other accuses, accusing still leaves you better off than remaining silent. So each has a reason to defect.",
+      "But if both follow that logic, both fare worse than if they had stayed silent together. The dilemma shows how individually sensible choices can lead to a result everyone would rather avoid. It relies on a carefully arranged payoff structure, not a claim that people are naturally selfish. Add trust, repeated encounters, or different incentives, and the situation may change."
+    ],
+    "reflection": "When does protecting yourself make things worse for everyone, including you?",
+    "readingTime": "1 min",
+    "keywords": ["prisoner's dilemma", "cooperation", "game theory", "trust"],
+    "sources": [{"title":"Prisoner's Dilemma — Stanford Encyclopedia of Philosophy","url":"https://plato.stanford.edu/entries/prisoner-dilemma/"}],
+    "visual": "thinking-room"
+  },
+  {
+    "id": "how-do-you-know-i-feel",
+    "title": "How Do You Know I Feel?",
+    "category": "thinking-room",
+    "opening": "You know what a headache feels like from the inside. But how can you know that another person feels one too?",
+    "paragraphs": [
+      "A friend winces, rubs their temple, and asks for quiet. You have good reasons to think they are in pain. Yet you cannot step into their experience and inspect it directly. Could they be behaving exactly like you while feeling nothing at all? The thought is possible to imagine, even if it seems a strange way to live.",
+      "Philosophers call this the problem of other minds. Some appeal to similarities between our bodies and behavior; others point to the best explanation of what we observe, or to what people tell us. Some ask whether we perceive feelings directly in expression and action. There is no single agreed solution to every version of the puzzle, and everyday trust need not wait for one."
+    ],
+    "reflection": "What makes another person’s inner life feel real to you?",
+    "readingTime": "1 min",
+    "keywords": ["other minds", "consciousness", "empathy", "knowledge"],
+    "sources": [{"title":"Other Minds — Stanford Encyclopedia of Philosophy","url":"https://plato.stanford.edu/entries/other-minds/"}],
+    "visual": "thinking-room"
+  },
+  {
+    "id": "one-grain-at-a-time",
+    "title": "One Grain at a Time",
+    "category": "thinking-room",
+    "opening": "A million grains make a heap. Remove one grain: surely it is still a heap. Keep going. When does the heap disappear?",
+    "paragraphs": [
+      "One grain seems too small a change to turn a heap into no heap at all. Repeat that thought again and again, though, and you end up with a single grain. That is not a heap. The trouble is that every tiny step sounds reasonable, while the final conclusion sounds plainly false.",
+      "This is the sorites puzzle, named for an ancient heap of sand. It exposes the slipperiness of words such as “heap,” “bald,” or “tall”: ordinary language often gives us no sharp line between cases. Philosophers respond in different ways. Some accept borderline cases; others question the step-by-step rule or explain how context shifts the boundary. No one answer has become uncontested."
+    ],
+    "reflection": "If no single grain makes the difference, can a whole heap of tiny changes?",
+    "readingTime": "1 min",
+    "keywords": ["sorites", "vagueness", "language", "paradox"],
+    "sources": [{"title":"Vagueness — Stanford Encyclopedia of Philosophy","url":"https://plato.stanford.edu/entries/vagueness/"}],
+    "visual": "thinking-room"
+  },
+  {
+    "id": "the-predictors-two-boxes",
+    "title": "The Predictor’s Two Boxes",
+    "category": "thinking-room",
+    "opening": "A remarkably accurate predictor has already guessed what you will choose. Now two boxes wait on the table.",
+    "paragraphs": [
+      "One box is clear and holds $1,000. The other is opaque. It contains either $1,000,000 or nothing, depending on the predictor’s earlier guess: if it expected you to take only that box, it filled it; if it expected you to take both, it left it empty. You may take one box or both.",
+      "Taking both always adds the visible $1,000, whatever is inside the opaque box. That makes two boxes look like the safer choice. But because the predictor is reliable, people who take only the opaque box tend to find the million there. One rule of choice says take both; another points toward one. Philosophers disagree about which kind of reasoning rationality demands."
+    ],
+    "reflection": "Should you choose by what your action can change, or by what it tends to reveal about you?",
+    "readingTime": "1 min",
+    "keywords": ["Newcomb's problem", "decision theory", "prediction", "rationality"],
+    "sources": [{"title":"Causal Decision Theory — Stanford Encyclopedia of Philosophy","url":"https://plato.stanford.edu/entries/decision-causal/"}],
+    "visual": "thinking-room"
+  }
+]
