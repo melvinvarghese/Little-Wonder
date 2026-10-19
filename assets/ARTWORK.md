@@ -1,7 +1,9 @@
-# Little Wonder artwork
+# Little Wonder artwork and type
 
-`cover-art.webp` is an original image generated specifically for Little Wonder with GPT Image, then resized and compressed to WebP. It depicts a fern growing from an open book, surrounded by botanical and celestial engraving motifs. It is interpretive decorative art, not a scientific illustration or an image of an actual historical object. No reference images or third-party artwork were incorporated.
+The pocket-atlas identity uses an original tiny-window SVG mark in `favicon.svg` and in the shared page builder. An open vermilion shutter reveals mineral-blue hills and a marigold sun. The mark is source-controlled vector geometry; its wordmark remains live text.
 
-The six category SVG motifs are original source-controlled drawings in `scripts/build.mjs`: a ship, an open book with a branch, an hourglass, a fern, intersecting orbits, and a crescent moon. They are deliberately symbolic rather than article-specific evidence. `favicon.svg` is an original geometric sun emblem.
+The sixty specimen illustrations are original GPT Image 2.5 artwork created for this redesign. Each article has its own local WebP image. Original category sheets, the complete file inventory, and crop/reproduction details are documented in `SPECIMENS.md`. They are interpretive editorial illustrations, not scientific diagrams, historical evidence or reconstructions. No searched reference images or third-party stock imagery were incorporated.
 
-No externally licensed stock images, web fonts, icon packages, or remotely hosted image URLs are used. The cover uses local artwork and live HTML text; the reading pages remain usable if artwork cannot load. System font stacks require no font downloads.
+`atlas-social.jpg` is a screenshot-derived preview of the implemented homepage folio, not a separate mockup. The original `cover-art.webp` is retained for history but is no longer used in the new interface.
+
+The locally hosted variable fonts are Lora (display and reading) and Karla (navigation and interface). They were obtained from the Google Fonts open-source repository and are distributed under the SIL Open Font License; each font’s license is stored in `fonts/`. The site makes no runtime request to Google Fonts or another external font/image service.
