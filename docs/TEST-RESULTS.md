@@ -58,3 +58,15 @@ npm run test:browser
 ```
 
 The default browser-test server is `http://localhost:8011/Little-Wonder/`; it must already be running. Tests use isolated browser storage. Results and local logs are ignored by Git.
+
+## Pocket-atlas redesign verification
+
+The unpushed `redesign/pocket-atlas` branch preserves the 75 public HTML routes and all 60 article identifiers. The homepage, shelf, category index, saved collection, information pages and readers now share the tiny-window identity and pocket-atlas styling. This section supersedes the launch-design references above to a cover and category SVG engravings: entries now use article-specific local specimen plates.
+
+After the final implementation, `npm test` passed all 8 checks. `npm run test:browser` passed all 19 interaction/layout/accessibility checks, all three recovery checks, the simultaneous two-tab-save check, and all three new atlas checks. Axe found zero WCAG 2.1 AA violations on the tested templates; this is not complete accessibility certification.
+
+The atlas test crosses midnight in Asia/Kolkata using the running 30-second timer, then verifies the visibility refresh separately. Image, title, category, padded leaf number and link remain synchronized. Reader art belongs to the current article. The static homepage remains meaningful without JavaScript.
+
+All 60 unique local WebP plates were verified at 600 × 360 pixels and below 100 KB. Visually reviewed crop boundaries avoid assuming that generated sheets have equal rows. A read-only independent review found no important production defect; its observation about timer-test coverage was addressed. Desktop (1440 px), tablet (768 px) and phone (390 px) previews were captured with `node tests/preview.mjs` in Git-ignored `test-results/atlas-preview/` and visually inspected. Fonts and artwork load locally; no new runtime dependency or remote font/image service was introduced.
+
+Only local commits and a temporary review server were created. Nothing was pushed or deployed to GitHub Pages. Publication requires the owner's explicit approval after preview review.

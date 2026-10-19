@@ -56,7 +56,20 @@ async function loadData(){
   announce('The interactive shelf could not load. You can still open the discoveries listed on the Reading Shelf. Please reload to try again.');
  }
 }
-function refreshDaily(){const today=dailyArticle(articles);if(today)for(const a of $$('[data-daily]'))a.href=urlFor(today.id);}
+function refreshDaily(){
+ const today=dailyArticle(articles);if(!today)return;
+ for(const a of $$('[data-daily]'))a.href=urlFor(today.id);
+ const art=$('[data-daily-art]');
+ if(art){
+  const source=new URL(`assets/specimens/${today.id}.webp`,base).href;
+  if(art.src!==source)art.src=source;
+  $('[data-daily-title]').textContent=today.title;
+  $('[data-daily-category]').textContent=categories.find(c=>c.id===today.category)?.title||'Little Wonder';
+  $('[data-daily-number]').textContent=String(articles.indexOf(today)+1).padStart(2,'0');
+  $('[data-daily-time]').textContent=`${today.readingTime} read`;
+  $('[data-daily-label]').textContent='Today’s discovery';
+ }
+}
 setInterval(refreshDaily,30000);
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshDaily();});
 for(const link of $$('[data-daily]'))link.addEventListener('click',e=>{
@@ -73,9 +86,8 @@ const library=$('[data-library]'),search=$('#search'),category=$('#category');
 function makeEntry(a){
  const c=categories.find(c=>c.id===a.category),li=document.createElement('li');li.className='shelf-entry';li.dataset.id=a.id;
  const link=document.createElement('a');link.className='entry-link';link.href=urlFor(a.id);
- const art=document.createElement('span');art.className='entry-art';art.style.color=c?.accent||'';art.setAttribute('aria-hidden','true');
- const engraving=document.getElementById(`art-${a.category}`)?.content.firstElementChild;
- if(engraving)art.append(engraving.cloneNode(true));else art.textContent='✧';
+ const art=document.createElement('span');art.className='entry-art';art.setAttribute('aria-hidden','true');
+ const image=document.createElement('img');image.src=new URL(`assets/specimens/${a.id}.webp`,base).href;image.alt='';image.width=600;image.height=360;image.loading='lazy';art.append(image);
  const copy=document.createElement('span');copy.className='entry-copy';
  const meta=document.createElement('span');meta.className='entry-meta';meta.textContent=c?.title||'Little Wonder';
  const time=document.createElement('span');time.textContent=`${a.readingTime} read`;meta.append(time);

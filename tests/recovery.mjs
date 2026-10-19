@@ -19,6 +19,6 @@ await run('nested custom 404 keeps its assets and navigation at the project base
  const c=await browser.newContext();const p=await c.newPage();
  await c.route('**/missing/deep/',async route=>route.fulfill({status:404,contentType:'text/html',body:fs.readFileSync(new URL('../404.html',import.meta.url),'utf8')}));
  await c.route('https://melvinvarghese.github.io/Little-Wonder/**',async route=>{const target=route.request().url().replace('https://melvinvarghese.github.io/Little-Wonder/',base);const response=await c.request.get(target);await route.fulfill({response});});
- await p.goto(new URL('missing/deep/',base).href);const href=await p.locator('link[rel=stylesheet]').evaluate(e=>e.href);assert.equal(href,'https://melvinvarghese.github.io/Little-Wonder/assets/style.css');assert.equal(await p.locator('.wordmark').evaluate(e=>e.href),'https://melvinvarghese.github.io/Little-Wonder/index.html');await c.close();
+ await p.goto(new URL('missing/deep/',base).href);const href=await p.locator('link[rel=stylesheet]').evaluate(e=>e.href);const asset=new URL(href);assert.equal(asset.origin+asset.pathname,'https://melvinvarghese.github.io/Little-Wonder/assets/style.css');assert.equal(await p.locator('.wordmark').evaluate(e=>e.href),'https://melvinvarghese.github.io/Little-Wonder/index.html');await c.close();
 });
 await browser.close();if(failures)process.exitCode=1;
